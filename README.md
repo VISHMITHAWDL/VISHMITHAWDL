@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [VISHMITHAWDL]</h1>
+<h1 align="center">Hi 👋, I'm VISHMITHAWDL</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Passionate+about+learning+new+tech" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m an undergraduate in **Computer Science** at [University Of Moratuwa], Sri Lanka.
+- 🎓 I’m an undergraduate in **Computer Science** at University Of Moratuwa, Sri Lanka.
 - 💡 Currently exploring **Full Stack Development** with React, Node.js, and Spring Boot.
 - 🤖 Interested in **Artificial Intelligence** and **Machine Learning**.
 - 🚀 Passionate about creating interactive web and mobile apps.
@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
 
 **Frameworks:**
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
