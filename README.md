@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Passionate+about+learning+new+tech" alt="Typing SVG" />
 </p>
-
+![Tech Animation](https://lottie.host/embed/7091acd7-fc09-4f87-bd97-f17a2674cf84/vsoT2vfk57.lottie)
 ---
 
 ### 👨‍💻 About Me
